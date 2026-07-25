@@ -1,4 +1,3 @@
-
 # AntiPlato: Installation & Setup Guide
 
 Welcome to AntiPlato! Because this is a powerful, standalone screen-reading utility, Android's automated security will initially try to block it. This is standard for custom tools not downloaded from the Play Store. 
@@ -6,7 +5,7 @@ Welcome to AntiPlato! Because this is a powerful, standalone screen-reading util
 Here is how to get set up safely in about three minutes.
 
 ## Part 1: Installation 
-1. Download the AntiPlato APK and tap the file to install it. (check out Release section of this page, usually bottom of page)
+1. **[Download the AntiPlato v1 APK](https://github.com/Antiplato/Antiplato-release/releases/download/v1/app-release.apk)** (or visit the [Release page here](https://github.com/Antiplato/Antiplato-release/releases/tag/v1)). Once downloaded, tap the file to install it.
 2. If you see a **"Blocked by Play Protect"** warning or simply "**App not installed**", close the installation screen.
 3. Open your **Google Play Store** app.
 4. Tap your profile picture in the top right corner and select **Play Protect**.
@@ -32,4 +31,4 @@ To function as a game helper, AntiPlato needs three specific Android permissions
 5. **The Training Phase:** During your first few games, the scan might result in a `?` instead of a letter. This is completely normal. The app's model learns from what you teach it. If it misidentifies a letter, tap **Edit** to correct the mistake. 
 6. Once the grid letters are correct, click **Auto Swipe** to enable automatic swiping and let the app solve the board, you can disable automatic swiping by clicking it again and then manually click go to swipe each word slowly. 
 
-Once it is trained enough from your corrections (usually all thr unique tiles like A, B, Qu), the OCR will work flawlessly!
+Once it is trained enough from your corrections (usually all the unique tiles like A, B, Qu), the OCR will work flawlessly!
