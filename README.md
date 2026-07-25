@@ -7,7 +7,7 @@ Here is how to get set up safely in about three minutes.
 
 ## Part 1: Installation 
 1. Download the AntiPlato APK and tap the file to install it.
-2. If you see a **"Blocked by Play Protect"** warning, close the installation screen.
+2. If you see a **"Blocked by Play Protect"** warning or simply "**App not installed**", close the installation screen.
 3. Open your **Google Play Store** app.
 4. Tap your profile picture in the top right corner and select **Play Protect**.
 5. Tap the gear icon (top right) and turn off **Scan apps with Play Protect**.
