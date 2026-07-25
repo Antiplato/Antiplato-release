@@ -25,11 +25,11 @@ To function as a game helper, AntiPlato needs three specific Android permissions
 * **Accessibility:** This is the core engine. It allows AntiPlato to automatically execute the swiping motions on the grid for you.
 
 ## Part 3: Using AntiPlato
-1. Once your settings are in place, AntiPlato will ask for **Screen Record** permission. This is strictly required to take a snapshot of the game grid so the app can read the letters (OCR). It does not record video or save anything to your phone.
+1. Once your settings are in place, AntiPlato will ask for **Screen Record** permission. This is strictly required to take a snapshot of the game grid so the app can read the letters (OCR) from the screen in real time.
 2. Open your game. Tap the **Bound** button on the far right corner of the floating overlay.
 3. Adjust the red box so it perfectly frames your game grid.
 4. Tap the **OCR** button to scan the letters.
 5. **The Training Phase:** During your first few games, the scan might result in a `?` instead of a letter. This is completely normal. The app's model learns from what you teach it. If it misidentifies a letter, tap **Edit** to correct the mistake. 
-6. Once the grid letters are correct, hit **Auto Swipe** to let the app solve the board. 
+6. Once the grid letters are correct, click **Auto Swipe** to enable automatic swiping and let the app solve the board, you can disable automatic swiping by clicking it again and then manually click go to swipe each word slowly. 
 
-Once it gathers enough data from your corrections, the OCR will work flawlessly!
+Once it is trained enough from your corrections (usually all thr unique tiles like A, B, Qu), the OCR will work flawlessly!
