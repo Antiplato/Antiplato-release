@@ -6,7 +6,7 @@ Welcome to AntiPlato! Because this is a powerful, standalone screen-reading util
 Here is how to get set up safely in about three minutes.
 
 ## Part 1: Installation 
-1. Download the AntiPlato APK and tap the file to install it.
+1. Download the AntiPlato APK and tap the file to install it. (check out Release section of this page, usually bottom of page)
 2. If you see a **"Blocked by Play Protect"** warning or simply "**App not installed**", close the installation screen.
 3. Open your **Google Play Store** app.
 4. Tap your profile picture in the top right corner and select **Play Protect**.
