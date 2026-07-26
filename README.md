@@ -2,6 +2,7 @@
 
 Welcome to AntiPlato! Because this is a powerful, standalone screen-reading utility, Android's automated security will initially try to block it. This is standard for custom tools not downloaded from the Play Store.
 
+**Always winning with the app might put you in plato's suspicious list, and worst case might ban your account due to "always winning, suspicious of cheating" reason, so it is recommended you purposely lose atleast 1 2 matches after every 3 4 wins. Antiplato team is not responsible for any misuse or bans due to overuse of cheats.**
 
 Instagram: **[diablo_01111](https://www.instagram.com/diablo_01111)**
 for any queries and help/support.
