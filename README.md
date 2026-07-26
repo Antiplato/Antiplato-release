@@ -1,6 +1,8 @@
 # AntiPlato: Installation & Setup Guide
 
-Welcome to AntiPlato! Because this is a powerful, standalone screen-reading utility, Android's automated security will initially try to block it. This is standard for custom tools not downloaded from the Play Store. 
+Welcome to AntiPlato! Because this is a powerful, standalone screen-reading utility, Android's automated security will initially try to block it. This is standard for custom tools not downloaded from the Play Store.
+Instagram: **[diablo_01111](https://www.instagram.com/diablo_01111)**
+for any queries and help/support.
 
 Here is how to get set up safely in about three minutes.
 
