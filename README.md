@@ -10,7 +10,7 @@ for any queries and help/support.
 
 Here is how to get set up safely in about three minutes.
 
-<video src="VID-20260727-WA0000 (1).mp4" controls="controls" muted="muted" style="max-width: 100%;">
+<video src="https://github.com/Antiplato/Antiplato-release/raw/refs/heads/main/VID-20260727-WA0000%20(1).mp4" controls="controls" muted="muted" style="max-width: 100%;">
 </video>
 
 ## Part 1: Installation 
