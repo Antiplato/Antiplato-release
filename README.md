@@ -10,8 +10,7 @@ for any queries and help/support.
 
 Here is how to get set up safely in about three minutes.
 
-<video src="https://raw.githubusercontent.com/Antiplato/Antiplato-release/main/VID-20260727-WA0000%20(1).mp4" controls="controls" muted="muted" style="max-width: 100%;">
-</video>
+https://ik.imagekit.io/ekw4zvvf4/demo.mp4
 
 ## Part 1: Installation 
 1. **[Download the AntiPlato v1 APK](https://github.com/Antiplato/Antiplato-release/releases/download/v1/app-release.apk)** (or visit the [Release page here](https://github.com/Antiplato/Antiplato-release/releases/tag/v1)). Once downloaded, tap the file to install it.
