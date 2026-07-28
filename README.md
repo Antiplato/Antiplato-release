@@ -13,7 +13,7 @@ Here is how to get set up safely in about three minutes.
 https://ik.imagekit.io/ekw4zvvf4/demo.mp4
 
 ## Part 1: Installation 
-1. **[Download the AntiPlato v1 APK](https://github.com/Antiplato/Antiplato-release/releases/download/v1/app-release.apk)** (or visit the [Release page here](https://github.com/Antiplato/Antiplato-release/releases/tag/v1)). Once downloaded, tap the file to install it.
+1. **[Download the AntiPlato v1 APK](https://github.com/Antiplato/Antiplato-release/releases/download/v1/AntiPlato.apk)** (or visit the [Release page here](https://github.com/Antiplato/Antiplato-release/releases/tag/v1)). Once downloaded, tap the file to install it.
 2. If you see a **"Blocked by Play Protect"** warning or simply "**App not installed**", close the installation screen.
 3. Open your **Google Play Store** app.
 4. Tap your profile picture in the top right corner and select **Play Protect**.
