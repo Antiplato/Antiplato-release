@@ -40,3 +40,4 @@ To function as a game helper, AntiPlato needs three specific Android permissions
 6. Once the grid letters are correct, click **Auto Swipe** to enable automatic swiping and let the app solve the board, you can disable automatic swiping by clicking it again and then manually click go to swipe each word slowly. 
 
 Once it is trained enough from your corrections (usually all the unique tiles like A, B, Qu), the OCR will work flawlessly!
+(nathan mf)
