@@ -5,7 +5,7 @@ Welcome to AntiPlato! Because this is a powerful, standalone screen-reading util
 ### ⚠️ Must read before continuing !!!
 **Always winning with the app might put you in suspicious list, and worst case might ban your account due to "always winning, suspicious of cheating" reason, so it is recommended you purposely lose atleast 1-2 matches after every 3-4 wins. Antiplato team is not responsible for any misuse or bans due to overuse of cheats.**
 
-Instagram: **[antiplato_01](https://www.instagram.com/antiplato_01)**
+Discord: **antiplato01**
 for any queries and help/support.
 
 Here is how to get set up safely in about three minutes.
